@@ -17,7 +17,7 @@ function PreGame() {
       <div className="front-pics">
           <div className="score golden1">HIGH-SCORE:69</div>
         <img className="cristiano1" alt="" src={cristiano1}></img>
-        <div className="copyright golden1">Copyright overflow68</div>
+        <a  className="gh-link"href="https://github.com/overflow68"><div className="gh-text golden1"><span>overflow68</span></div></a>
       </div>
     </div>
   );
