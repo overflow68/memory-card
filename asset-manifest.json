@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/memory-card/static/css/main.262e533b.css",
+    "main.js": "/memory-card/static/js/main.6d2df3a1.js",
+    "static/media/cristiano1.png": "/memory-card/static/media/cristiano1.7e2a9f8577df825de4e4.png",
+    "static/media/cry7.png": "/memory-card/static/media/cry7.4cb63601524be2f01fd0.png",
+    "static/media/lopes.png": "/memory-card/static/media/lopes.e3dd23464cf553461cef.png",
+    "static/media/andresilva.png": "/memory-card/static/media/andresilva.1794cee2880418722a29.png",
+    "static/media/cancelo.png": "/memory-card/static/media/cancelo.ea08d861d4cdf1b39429.png",
+    "static/media/moutinho.png": "/memory-card/static/media/moutinho.ee33d7191ef3ccc240fb.png",
+    "static/media/semedo.png": "/memory-card/static/media/semedo.3e27b2998ddf9eb47b3f.png",
+    "static/media/palhinha.png": "/memory-card/static/media/palhinha.9e708c7bb070dd6336f9.png",
+    "static/media/bernardo.png": "/memory-card/static/media/bernardo.4e0c4f4dcfecf37b7e93.png",
+    "static/media/bruno.png": "/memory-card/static/media/bruno.ead0a2454a4fc108e71a.png",
+    "static/media/danilo.png": "/memory-card/static/media/danilo.301d1682f32a2223f78a.png",
+    "static/media/renato.png": "/memory-card/static/media/renato.5b2cad8a909f713e7bee.png",
+    "static/media/mendes.png": "/memory-card/static/media/mendes.727851b18cc3bb54844b.png",
+    "static/media/cr7.png": "/memory-card/static/media/cr7.df4202e98559f6ce6b76.png",
+    "index.html": "/memory-card/index.html",
+    "main.262e533b.css.map": "/memory-card/static/css/main.262e533b.css.map",
+    "main.6d2df3a1.js.map": "/memory-card/static/js/main.6d2df3a1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.262e533b.css",
+    "static/js/main.6d2df3a1.js"
+  ]
+}
