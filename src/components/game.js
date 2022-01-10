@@ -73,13 +73,11 @@ if (getCard.length<1){
         }
         setCards(array);
       }
-      function cs(){
-        console.log(game)
-      }
+     
     return (
        <div className="game">
          <div className="cont-cont">
-           <button onClick={cs}></button>
+           
           <div className="grid-cont">
             
             {cards.map((obj) => {

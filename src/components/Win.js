@@ -1,8 +1,15 @@
-import React from 'react'
+import React, {useEffect} from 'react'
 import cry7 from '../images/cristiano1.png'
-
+import ConfettiGenerator from "confetti-js";
 function Win({result, returnHome}) {
-    
+  useEffect(() => {
+    const confettiSettings = { target: 'my-canvas' };
+    const confetti = new ConfettiGenerator(confettiSettings);
+    confetti.render();
+   
+    return () => confetti.clear();
+  }, [])
+
     return (
       <div className='win-msg'>
       <div className={result.gameLost===false && result.gameWon===true?"cover active":"cover"}>
@@ -20,7 +27,7 @@ function Win({result, returnHome}) {
   </div>
 </div>
 </div>
-</div>
+</div><canvas id="my-canvas"></canvas>
 </div>
   </div>
     )
